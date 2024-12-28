@@ -20,6 +20,14 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
+<a href="https://playwright.dev">
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" role="img" aria-label="Playwright">
+    <rect rx="4" width="200" height="40" fill="#006400" />
+    <text x="50%" y="50%" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" alignment-baseline="central">
+      Playwright
+    </text>
+  </svg>
+</a>
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-bvnfd5?style=for-the-badge&color=45ba4b" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-dfhvm1?style=for-the-badge&logo=MongoDB&logoColor=00ED64&labelColor=black&color=023430" />
 </p>
