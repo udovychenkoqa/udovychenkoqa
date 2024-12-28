@@ -30,5 +30,5 @@
 
 <div align="center">
 <img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=transparentl&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=transparent&&langs_count=8"/>
 </div>
