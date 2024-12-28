@@ -37,5 +37,5 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+[![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
 
