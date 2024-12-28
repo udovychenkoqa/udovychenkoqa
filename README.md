@@ -1,7 +1,7 @@
 ## Hi, I'm Anton 👋
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
-apps (IOS and Android). I have 1.5 year of Automation experience using JavaScript + Playwright
+apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright
 
 #### 🤙 Connect with me
 <p align="left">
@@ -21,7 +21,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JavaScrip
   <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-bvnfd5?style=for-the-badge&color=45ba4b" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-bvnfd5?style=for-the-badge&logo=mongoDB&logoColor=3C873A&labelColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-dfhvm1?style=for-the-badge&logo=MongoDB&logoColor=00ED64&labelColor=black&color=023430" />
 </p>
 
 ## 👨‍🔬 Projects
