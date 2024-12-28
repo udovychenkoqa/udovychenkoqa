@@ -18,8 +18,8 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JavaScrip
 ####  🛠️ Technologies
 
 <p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&color=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-12853d?style=flat-square&logo=playwright&logoColor=white&color=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white&color=black" />
 </p>
