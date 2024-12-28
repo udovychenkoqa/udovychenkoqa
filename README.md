@@ -14,7 +14,7 @@
 
 ## 👨‍🔬 Projects
 
-[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin/?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
+[![conduit.e2e](src="https://github-readme-stats.vercel.app/api?username=udovychenkodev&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
 ### Technologies
 
