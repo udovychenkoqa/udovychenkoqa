@@ -12,6 +12,10 @@
 </a>
 </p>
 
+## 👨‍🔬 Projects
+
+[![markdown-links-action](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=markdown-links-action&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
+
 ### Technologies
 
 <p align="left">
