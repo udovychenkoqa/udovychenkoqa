@@ -1,7 +1,7 @@
 ## Hi, I'm Anton 👋
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
-apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright
+apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
 
 #### 🤙 Connect with me
 <p align="left">
@@ -14,9 +14,6 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
     <img alt="gmail" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=gmail&logoColor=white&color=black"></a>
 </a>
 </p>
-
-####  Bizness
-- :paperclip: [My Resume/CV]()
   
 ####  🛠️ Technologies
 
