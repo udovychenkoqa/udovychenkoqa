@@ -14,7 +14,7 @@
 
 ## 👨‍🔬 Projects
 
-[![markdown-links-action](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=markdown-links-action&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
+[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin/?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
 ### Technologies
 
