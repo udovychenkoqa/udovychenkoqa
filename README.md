@@ -15,10 +15,6 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JavaScrip
 </a>
 </p>
 
-## 👨‍🔬 Projects
-
-[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
-
 ####  🛠️ Technologies
 
 <p align="left">
@@ -27,6 +23,10 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JavaScrip
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-12853d?style=flat-square&logo=playwright&logoColor=white&color=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white&color=black" />
 </p>
+
+## 👨‍🔬 Projects
+
+[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
 
 ## My stats ⭐
