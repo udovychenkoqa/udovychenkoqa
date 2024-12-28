@@ -14,7 +14,7 @@
 
 ## 👨‍🔬 Projects
 
-[![conduit.e2e](https://github-readme-stats.vercel.app/api?username=udovychenkodev&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
+[![conduit.e2e](https://github-readme-stats.vercel.app/api?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
 ### Technologies
 
@@ -29,6 +29,6 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkodev&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkodev&layout=compact&&langs_count=8"/>
+<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&&langs_count=8"/>
 </div>
