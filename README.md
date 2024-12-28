@@ -15,6 +15,9 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </a>
 </p>
 
+### Bizness
+- :paperclip: [My Resume/CV]()
+  
 ####  🛠️ Technologies
 
 <p align="left">
@@ -36,5 +39,3 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
 </div>
 
-### Bizness
-- :paperclip: [My Resume/CV]()
