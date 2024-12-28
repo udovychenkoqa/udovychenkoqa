@@ -1,4 +1,4 @@
-## Hi, I'm Anton 👋
+## Hi, I'm Anton 👋 🇺🇦
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
