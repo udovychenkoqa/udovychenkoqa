@@ -15,7 +15,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </a>
 </p>
 
-### Bizness
+####  Bizness
 - :paperclip: [My Resume/CV]()
   
 ####  🛠️ Technologies
