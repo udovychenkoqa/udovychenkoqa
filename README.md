@@ -1,6 +1,9 @@
 ## Hi, I'm Anton 👋
 
-## 🤙 Connect with me
+I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
+apps (IOS and Android). I have 1.5 year of Automation experience using JavaScript + Playwright
+
+🤙 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/qa-anton-udovychenko">
 <img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black"></a>
@@ -16,7 +19,7 @@
 
 [![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
-## 🛠️ Technologies
+####  🛠️ Technologies
 
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=black" />
