@@ -47,8 +47,8 @@ Connect with me 💬
 ## My stats ⭐
 
 <div align="center">
-<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=calm"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=calm&&langs_count=8"/>
+<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=synthwave"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=synthwave&&langs_count=8"/>
 </div>
 
 
