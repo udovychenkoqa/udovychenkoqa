@@ -1,6 +1,6 @@
 <p align="center">
 <!--      <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,I'm%20Anton&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/> -->
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,I'm%20Anton&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60"/>
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,I'm%20Anton&height=150&fontSize=60"/>
 </p>
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
