@@ -23,7 +23,7 @@ Connect with me 💬
 </p>
 
   
-<h2> 🛠️ Technologies </h2>
+<h2> 🛠️ Some Tools I Have Used and Learned </h2>
 <p align="left">
   <img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" alt="TypeScript"  width="60" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="45" />
