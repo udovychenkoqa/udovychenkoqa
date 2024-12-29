@@ -26,9 +26,6 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </p>
 
 
-## 👨‍🔬 Projects
-
-[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
 
 
 ## My stats ⭐
