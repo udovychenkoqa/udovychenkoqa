@@ -22,8 +22,7 @@ Connect with me 💬
 </p>
 
   
-####  🛠️ Technologies
-
+<h2> 🛠️ Technologies </h2>
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
