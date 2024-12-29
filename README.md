@@ -14,7 +14,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </a>
 </a>    
 <a href="mailto:a.udovychenko1203@gmail.com">
-    <img alt="gmail" src="https://github.com/user-attachments/assets/c6af32a0-92d8-4cc6-aa1e-06cfd750797c"></a>
+    <img height="50" src="https://github.com/user-attachments/assets/c6af32a0-92d8-4cc6-aa1e-06cfd750797c"></a>
 </a>
 </p>
 
