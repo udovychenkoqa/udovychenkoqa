@@ -24,7 +24,7 @@ Connect with me 💬
   
 <h2> 🛠️ Technologies </h2>
 <p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"  width="80" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-sda212?style=for-the-badge&color=45ba4b" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
