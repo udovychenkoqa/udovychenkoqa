@@ -14,6 +14,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
     <img alt="gmail" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=gmail&logoColor=white&color=black"></a>
 </a>
 </p>
+
   
 ####  🛠️ Technologies
 
@@ -23,6 +24,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-sda212?style=for-the-badge&color=45ba4b" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-dfhvm1?style=for-the-badge&logo=MongoDB&logoColor=00ED64&labelColor=black&color=023430" />
 </p>
+
 
 ## 👨‍🔬 Projects
 
@@ -35,6 +37,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 <img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=radical"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
 </div>
+
 
 ### Profile views counter 👁️‍🗨️
 [![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/97831314/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
