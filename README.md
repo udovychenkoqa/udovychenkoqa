@@ -11,7 +11,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 </a>
 <a href="https://t.me/udovychenkoqa">    
     <img height="50" src="https://github.com/user-attachments/assets/ad376889-ebf3-4c39-814d-e4530c9c41bb"/>
-"></a>
+</a>
 </a>    
 <a href="mailto:a.udovychenko1203@gmail.com">
     <img alt="gmail" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=gmail&logoColor=white&color=black"></a>
