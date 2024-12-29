@@ -54,8 +54,10 @@ Connect with me 💬
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
 </div>
 
-#### Profile codewars
-[![Anton Udovychenko](https://www.codewars.com/users/Anton%20Udovychenko/badges/small)](https://www.codewars.com/users/Anton%20Udovychenko/badges/small)
+### Profile codewars
+<p align="right">
+[![Anton Udovychenko](https://www.codewars.com/users/Anton%20Udovychenko/badges/micro)](https://www.codewars.com/users/Anton%20Udovychenko/badges/micro)
+</p>
 
 ### Profile views counter 👁️‍🗨️
 [![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/97831314/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
