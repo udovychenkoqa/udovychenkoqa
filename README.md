@@ -1,10 +1,11 @@
 ## Hi, I'm Anton 👋 
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
 
 #### Connect with me 💬
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/qa-anton-udovychenko">
 <!-- <img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black"> -->
      <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
