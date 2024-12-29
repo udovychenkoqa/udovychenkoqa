@@ -64,7 +64,7 @@ Connect with me 💬
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
