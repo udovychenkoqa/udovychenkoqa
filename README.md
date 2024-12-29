@@ -24,9 +24,9 @@ Connect with me 💬
   
 <h2> 🛠️ Technologies </h2>
 <p align="left">
-<!--   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"  width="80" height="45" /> -->
-  <img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" alt="TypeScript"  width="80" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+  <img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" alt="TypeScript"  width="45" height="45" />
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> -->
+   <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" width="45" height="45" />
   <img alt="Playwright" src="https://raw.githubusercontent.com/pheralb/svgl/fa7c93e6274140416cf4e81fc814fb65c828b574/static/library/playwright.svg"  width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
