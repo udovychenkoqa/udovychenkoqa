@@ -37,10 +37,6 @@ Connect with me 💬
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="60" height="45"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 
 ## 👨‍🔬 Projects
 
@@ -54,11 +50,14 @@ Connect with me 💬
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
 </div>
 
-### Profile codewars
-<p align="right">
-   <img src="https://www.codewars.com/users/Anton%20Udovychenko/badges/micro" />
-</p>
 
 ### Profile views counter 👁️‍🗨️
 [![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/97831314/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
 
+<p align="right">
+   <img src="https://www.codewars.com/users/Anton%20Udovychenko/badges/micro" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
