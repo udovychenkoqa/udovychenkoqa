@@ -56,7 +56,7 @@ Connect with me 💬
 
 ### Profile codewars
 <p align="right">
-[![Anton Udovychenko](https://www.codewars.com/users/Anton%20Udovychenko/badges/micro)](https://www.codewars.com/users/Anton%20Udovychenko/badges/micro)
+   <img src="https://www.codewars.com/users/Anton%20Udovychenko/badges/micro" />
 </p>
 
 ### Profile views counter 👁️‍🗨️
