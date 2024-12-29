@@ -1,5 +1,4 @@
-## Hi, I'm Anton 👋 
-![Anton](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![Anton](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Anton.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
