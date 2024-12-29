@@ -1,9 +1,10 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,I'm%20Anton&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 </p>
-
+<p align="center">
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
+</p>
 <h1 align="center">
 Connect with me 💬
 </h1>
