@@ -33,6 +33,7 @@ Connect with me 💬
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="60" height="45"/>
   <img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="selenium" width="60" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="60" height="45"/>
 </p>
 
