@@ -41,14 +41,14 @@ Connect with me 💬
 
 ## 👨‍🔬 Projects
 
-[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=radical)](https://github.com/udovychenkoqa/conduit.e2e)
+[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=calm)](https://github.com/udovychenkoqa/conduit.e2e)
 
 
 ## My stats ⭐
 
 <div align="center">
-<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=radical"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
+<img alt="Anton's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udovychenkoqa&show_icons=true&theme=calm"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=calm&&langs_count=8"/>
 </div>
 
 
