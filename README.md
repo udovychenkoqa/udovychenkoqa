@@ -3,10 +3,12 @@
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
 
-#### 🤙 Connect with me
+#### Connect with me 💬
 <p align="left">
 <a href="https://www.linkedin.com/in/qa-anton-udovychenko">
-<img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black"></a>
+<!-- <img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black"> -->
+     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
 <a href="https://t.me/udovychenkoqa">    
     <img alt="Telegram" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=telegram&logoColor=white&color=black"></a>
 </a>    
