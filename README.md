@@ -1,9 +1,12 @@
+<p align="center">
 ![Anton](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Anton.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+</p>
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
 apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV]()
-
-#### Connect with me 💬
+<h1 align="center">
+Connect with me 💬
+</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/qa-anton-udovychenko">
 <!-- <img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black"> -->
