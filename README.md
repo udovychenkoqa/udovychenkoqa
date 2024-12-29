@@ -10,7 +10,7 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
      <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://t.me/udovychenkoqa">    
-    <img height="50" src="https://github.com/user-attachments/assets/ad376889-ebf3-4c39-814d-e4530c9c41bb"/>
+    <img height="50" src="https://github.com/user-attachments/assets/04620e3e-daff-4523-9c29-edac1fb12b4b"/>
 </a>
 </a>    
 <a href="mailto:a.udovychenko1203@gmail.com">
