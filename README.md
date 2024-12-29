@@ -55,7 +55,7 @@ Connect with me 💬
 ### Profile views counter 👁️‍🗨️
 [![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/97831314/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
 
-![Snake animation]("https://raw.githubusercontent.com/udovychenkoqa/udovychenkoqa/output/github-contribution-grid-snake-dark.svg")
+![Snake animation](https://raw.githubusercontent.com/udovychenkoqa/udovychenkoqa/output/github-contribution-grid-snake-dark.svg)
 
 <p align="right">
    <img src="https://www.codewars.com/users/Anton%20Udovychenko/badges/micro" />
