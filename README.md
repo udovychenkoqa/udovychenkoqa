@@ -38,8 +38,6 @@ apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Pl
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udovychenkoqa&layout=compact&theme=radical&&langs_count=8"/>
 </div>
 
-(https://www.codewars.com/users/Anton%20Udovychenko/badges/large)
-
 
 ### Profile views counter 👁️‍🗨️
 [![Anton Udovychenko profile views](https://u8views.com/api/v1/github/profiles/97831314/views/day-week-month-total-count.svg)](https://u8views.com/github/udovychenkoqa)
