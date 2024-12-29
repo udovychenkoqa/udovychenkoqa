@@ -63,4 +63,4 @@ Connect with me 💬
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/udovychenkoqa/udovychenkoqa/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/udovychenkoqa/udovychenkoqa/output/github-contribution-grid-snake-dark.svg"/>
