@@ -29,7 +29,9 @@ Connect with me 💬
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="45" />
   <img alt="Playwright" src="https://raw.githubusercontent.com/pheralb/svgl/fa7c93e6274140416cf4e81fc814fb65c828b574/static/library/playwright.svg"  width="60" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="65" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="45"/>
+  <img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="selenium" width="60" height="45"/>
 </p>
 
 <p align="center">
