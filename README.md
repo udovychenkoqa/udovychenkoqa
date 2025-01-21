@@ -42,7 +42,7 @@ Connect with me 💬
 ## 👨‍🔬 Projects
 
 [![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=synthwave)](https://github.com/udovychenkoqa/conduit.e2e)
-[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=conduit.e2e&theme=synthwave)](https://github.com/udovychenkoqa/conduit.e2e)
+[![conduit.e2e](https://github-readme-stats.vercel.app/api/pin?username=udovychenkoqa&repo=rozetka.e2e&theme=synthwave)](https://github.com/udovychenkoqa/rozetka.e2e)
 
 
 
