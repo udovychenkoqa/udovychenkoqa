@@ -3,7 +3,7 @@
 </p>
 
 I am a QA Engineer with 3 years of practical experience in software web-based (UI and Rest API), and mobile
-apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1BExLQt6WudgmtLivmy6yGOqvo9OHyt-y/view?usp=sharing)
+apps (IOS and Android). I have 1.5 year of Automation experience using JS/TS, Playwright
      
 <h1 align="center">
 Connect with me 💬
